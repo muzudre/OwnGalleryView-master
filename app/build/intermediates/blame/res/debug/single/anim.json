@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/translate_up_current.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/translate_up_current.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/activity_alpha_action_in.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/translate_down.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/translate_down.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/pb_default.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/pb_default.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/translate_down_current.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/translate_down_current.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/anim/translate_up.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/anim/translate_up.xml"
+    }
+]

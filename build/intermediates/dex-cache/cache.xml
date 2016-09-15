@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.1.1_a5c4bc9a4e747dd27120993509d6c4fd437da25e/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_f74a23e4db64b60e0cf84f58b728d97fb088c4bb/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.1_5fc3ae4a372aea28c6c178a7580449172eec6bca/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3526df34297bab9b9cc33d93d6e68f60fc2f94ea">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.2-SNAPSHOT-with-sources_28b8864c91c126b80ffc81f9d44cc7fb57d79b17/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="34a13a2fc48d4f865f9d956aaeccbaba31b7c618">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e0b2b5a7ef19dd3f2801242b45a87c97a5fa4bb1/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_33f696d105e72f25742cf34746ec74071cc7ac61/classes.dex" />
+    </item>
+    <item
+        jar="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8b0799772b7640ed52e3dd3dd509f6e79ef13417">
+        <dex dex="/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb22201e09eac3628b7add1bd9dc4f6aa5145f25/classes.dex" />
+    </item>
+
+</items>

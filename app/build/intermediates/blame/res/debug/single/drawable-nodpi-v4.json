@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/transparent.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/transparent.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/list_selector.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/list_selector.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/selector_allpic.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/selector_allpic.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/selector_video.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/selector_video.xml"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/ic_loading_white.png",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/ic_loading_white.png"
+    },
+    {
+        "merged": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/selector_camera.xml",
+        "source": "/home/muslimzabirov/AndroidStudioProjects/OwnGalleryView-master/app/src/main/res/drawable-nodpi/selector_camera.xml"
+    }
+]
